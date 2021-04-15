@@ -1,0 +1,27 @@
+{
+  "name": "flutter-cross-hybrid-exp",
+  "version": "0.0.1",
+  "description": "An Experiment to see if flutter is a correct choice",
+  "main": ".",
+  "scripts": {
+    "build": "node ./build.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanielRustrum/Flutter-Cross-Hybrid-Exp.git"
+  },
+  "author": "Daniel Rustrum",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DanielRustrum/Flutter-Cross-Hybrid-Exp/issues"
+  },
+  "homepage": "https://github.com/DanielRustrum/Flutter-Cross-Hybrid-Exp#readme",
+  "devDependencies": {
+    "accessibility-checker": "^3.1.5",
+    "command-line-args": "^5.1.1",
+    "copy-webpack-plugin": "^8.1.1",
+    "puppeteer": "^8.0.0",
+    "webpack": "^5.30.0"
+  },
+  "dependencies": {}
+}
